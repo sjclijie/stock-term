@@ -1,5 +1,3 @@
-# ticker.sh
-
 > Real-time stock tickers from the command-line.
 
 ![](https://raw.githubusercontent.com/sjclijie/stock-term/master/screenshot.png)
